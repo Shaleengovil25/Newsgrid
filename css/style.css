@@ -75,6 +75,7 @@ h1, h2, h3, h4, h5, h6 {
   background: var(--dark-color);
   color: #fff;
   padding: 0.5rem 1.5rem;
+  transition:all 0.5s;
 }
 
 .btn-light { background: var(--light-color) }
