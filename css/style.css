@@ -312,3 +312,9 @@ h1, h2, h3, h4, h5, h6 {
 #main-footer .footer-container input[type='submit'] {
   width: 90%;
 }
+a[href="https://shaleen.co/"] {
+  color: #c72727;
+}
+.hearts{
+  color: red;
+}
